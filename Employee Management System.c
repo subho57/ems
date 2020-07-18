@@ -1,5 +1,6 @@
 //To be run in TURBO-C!!
-
+//Author -- Subhankar Pal
+//subho57
 #include<graphics.h>
 
 #include<stdio.h>
